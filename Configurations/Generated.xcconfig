@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/smart/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/smart/Documents/my/HelloFlutter
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+OTHER_LDFLAGS=$(inherited) -framework Flutter
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+FLUTTER_FRAMEWORK_DIR=/Users/smart/Documents/engine/src/out/ios_debug_sim_unopt
+FLUTTER_ENGINE=/Users/smart/Documents/engine
+LOCAL_ENGINE=ios_debug_sim_unopt
